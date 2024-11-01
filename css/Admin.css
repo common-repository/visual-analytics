@@ -1,0 +1,23 @@
+.ewd-vap-clear {
+  clear:both;
+}
+.ewd-vap-header-info {
+  float: left;
+	width: 380px;
+	margin-bottom: 30px;
+	margin-left: 18px;
+	font-weight: 600;
+	font-size: 1.4em;
+}
+
+#ewd-vap-metric-label,
+#ewd-vap-metric-total {
+  width:auto;
+	float:right;
+	padding-right:8px;
+}
+
+.ewd-vap-dashboard-select {
+  min-width: 200px;
+	margin: 0px 60px 12px 18px;
+}
